@@ -1,0 +1,4 @@
+/home/calebe/Documentos/estudos/dotnet-teste/Movie.Core/obj/Debug/netstandard2.0/Movie.Core.csprojAssemblyReference.cache
+/home/calebe/Documentos/estudos/dotnet-teste/Movie.Core/obj/Debug/netstandard2.0/Movie.Core.AssemblyInfoInputs.cache
+/home/calebe/Documentos/estudos/dotnet-teste/Movie.Core/obj/Debug/netstandard2.0/Movie.Core.AssemblyInfo.cs
+/home/calebe/Documentos/estudos/dotnet-teste/Movie.Core/obj/Debug/netstandard2.0/Movie.Core.csproj.CoreCompileInputs.cache
